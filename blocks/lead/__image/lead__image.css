@@ -1,0 +1,7 @@
+.lead__image {
+  width: 928px;
+  height: 580px;
+  object-fit: cover;
+  /* margin: 0 auto; */
+  /* display: block; */
+}
