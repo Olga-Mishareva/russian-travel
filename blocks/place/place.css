@@ -1,0 +1,12 @@
+.place {
+  max-width: 984px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 460px 484px;
+  grid-template-rows: auto 460px;
+  grid-template-areas:
+      "title link"
+      /* "pic intro" */
+      "pic text";
+  gap: 40px 48px;
+}

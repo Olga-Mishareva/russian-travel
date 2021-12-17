@@ -39,7 +39,6 @@
 /* ----- PHOTO-GRID ----- */
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__items/photo-grid__items.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* ----- PLACES ----- */
@@ -53,7 +52,8 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
-@import url(../blocks/place/__link/plase__link.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__description/place__description.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 /* ----- COVER ----- */
