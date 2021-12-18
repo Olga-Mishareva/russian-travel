@@ -1,0 +1,7 @@
+.footer__info-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 465px;
+  margin: 0 0 24px 48px;
+}
