@@ -7,3 +7,9 @@
   grid-template-rows: repeat(6, auto);
   row-gap: 92px;
 }
+
+@media screen and (max-width: 800px) {
+  .content {
+    row-gap: 88px;
+  }
+}

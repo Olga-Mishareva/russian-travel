@@ -3,3 +3,9 @@
   grid-template-rows: repeat(5, auto);
   row-gap: 80px;
 }
+
+@media screen and (max-width: 800px) {
+  .places {
+    row-gap: 72px;
+  }
+}

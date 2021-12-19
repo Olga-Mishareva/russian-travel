@@ -3,5 +3,11 @@
   font-size: 54px;
   line-height: 58px;
   margin: 0 0 40px;
+  max-width: 75%;
+}
 
+@media screen and (max-width: 960px) {
+  .intro__title {
+    max-width: 95%;
+  }
 }

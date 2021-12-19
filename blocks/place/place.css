@@ -7,13 +7,32 @@
   grid-template-areas:
       "title link"
       "pic text";
-  gap: 40px 48px;
+  gap: 48px 40px;
 }
 
 @media screen and (max-width: 1200px) {
   .place {
     max-width: 928px;
     grid-template-columns: 440px 456px;
-  grid-template-rows: auto auto;
+    grid-template-rows: auto auto;
+    gap: 48px 32px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .place {
+    max-width: 760px;
+    grid-template-columns: 360px 372px;
+    grid-template-rows: auto auto;
+    gap: 48px 28px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .place {
+    max-width: 720px;
+    grid-template-columns: 340px 352px;
+    grid-template-rows: auto auto;
+    gap: 48px 28px;
   }
 }
