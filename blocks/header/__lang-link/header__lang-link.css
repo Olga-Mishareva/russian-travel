@@ -1,5 +1,5 @@
 .header__lang-link {
-  margin-right: 18px;
+
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
@@ -8,10 +8,13 @@
   transition: .3s ease;
 }
 
-.header__lang-link:nth-child(2) {
-  margin-right: 0;
-}
-
 .header__lang-link:hover {
   opacity: .8;
+}
+
+@media  screen and (max-width: 540px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }
