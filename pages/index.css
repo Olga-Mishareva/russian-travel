@@ -34,7 +34,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__data-list/intro__data-list.css);
-@import url(../blocks/intro/__data-list/_font-regular/intro__data-list_font-regular.css);
+@import url(../blocks/intro/__data-list/_font/intro__data-list_font_regular.css);
 
 /* ----- PHOTO-GRID ----- */
 
