@@ -16,6 +16,6 @@
 
 @media screen and (max-width: 540px) {
   .content {
-    row-gap: 64px;
-  }
+    row-gap: 64px; /* Значение соответствует макету. */
+  }   /* Отступ между places и cover в 66px я принимаю за опечатку в макете, тк остальные отступы 64px. */
 }
