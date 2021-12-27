@@ -16,7 +16,6 @@
   .footer__info-links {
     margin: 0 0 48px 16px;
     flex-direction: column;
-    min-height: 248px;
     min-width: 300px;
   }
 }
