@@ -1,23 +1,23 @@
-# Путешествие по России
+# Traveling through Russia
 
 ---
 
-Одностраничный адаптивный сайт о путешествиях по России.
+Single-page adaptive website about traveling in Russia.
 
-### Использованные технологии
+### Tech stack
 
 * HTML
 * CSS
 
-### Реальзовано с помощью
+### Implemented with
 
-* Адаптивная верстка
-* Медиа-запросы
-* БЭМ-методология
+* Adaptive layout
+* Media queries
+* BEM methodology
 * Grid
 * Flex
 * Figma
 
 
 
-[Ссылка на проект](https://olga-mishareva.github.io/russian-travel/)
+[Show me](https://olga-mishareva.github.io/russian-travel/)
